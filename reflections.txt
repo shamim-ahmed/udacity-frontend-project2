@@ -5,5 +5,9 @@ You've learned a lot about web development so far. I want you to take a moment t
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 ---
+ 
+  - I learned about some HTML elements that I wasn't familiar with (e.g. <s>, <sup>).
+  - Everything has been mostly easy so far.
+  - Nothing :-)
+  - They were not needed yet :-)
 
-Your response goes here!
